@@ -2,6 +2,14 @@
 
 A PowerShell script that allows you to easily compress multiple video files using FFmpeg. The script provides a user-friendly interface to select videos and compress them with different quality presets.
 
+
+# repo 
+https://github.com/pleabargain/video-compression-powershell
+
+# motivation
+
+Posting big videos on social media is a pain. This script allows you to compress videos to a manageable size. 
+
 ## Features
 
 - Interactive video selection interface
